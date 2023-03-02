@@ -22,6 +22,7 @@
                             <label for="exampleInputEmail1" class="form-label">Email address</label>
                             <input formControlName="email" type="email" class="form-control" id="exampleInputEmail1"
                                 aria-describedby="emailHelp" placeholder="Enter the Email">
+                                aria-describedby="emailHelp" placeholder="Enter the Email">
                             <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                             <span class="text-danger"
                                 *ngIf="signupForm.controls['email'].dirty && signupForm.hasError('required','email')">
