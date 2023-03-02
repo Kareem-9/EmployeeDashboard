@@ -1,0 +1,35 @@
+mat-toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  ul li {
+    list-style: none;
+  }
+
+  button {
+    outline: none;
+    border: 0;
+    background: transparent;
+  }
+  .user {
+    font-size: 14px;
+    background-color: rgb(197, 206, 215);
+  }
+  mat-toolbar {
+    
+    background-color: skyblue;
+  }
+
+  .user-image {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(187, 221, 234);
+  }
+  .user-image-icon {
+    height: 18px;
+    font-size: 16px;
+  }
+  

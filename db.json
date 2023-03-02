@@ -1,0 +1,145 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "firstName": "Dharavath",
+      "lastName": "Naresh",
+      "email": "naresh@gmail.com",
+      "mobile": "7845120369",
+      "salary": "7894"
+    },
+    {
+      "id": 9,
+      "firstName": "Sanjay",
+      "lastName": "Banda",
+      "email": "banda@gmail.com",
+      "mobile": "7412589630",
+      "salary": "7896"
+    },
+    {
+      "id": 10,
+      "firstName": "Anaparthi",
+      "lastName": "Akhil",
+      "email": "akhil@gmail.com",
+      "mobile": "7412574102",
+      "salary": "123"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Akhil",
+      "email": "akhil@gmail.com",
+      "password": "1234567",
+      "mobile": 7899874563,
+      "id": 1
+    },
+    {
+      "fullname": "Sanjay",
+      "email": "sanjay@gmail.com",
+      "password": "123456",
+      "mobile": 1234569870,
+      "id": 2
+    },
+    {
+      "fullname": "varsha",
+      "email": "varsha@gmail.com",
+      "password": "1234567",
+      "mobile": 1234569870,
+      "id": 3
+    },
+    {
+      "fullname": "harshavardhan",
+      "email": "harsha1020@gmail.com",
+      "password": "123456",
+      "mobile": 8886394491,
+      "id": 4
+    },
+    {
+      "fullname": "kamal",
+      "email": "kamal@gmail.com",
+      "password": "Kareem1999",
+      "mobile": 41023659785,
+      "id": 5
+    },
+    {
+      "fullname": "Abdul kareem",
+      "email": "rsakareem1999@gmail.com",
+      "password": "123456",
+      "mobile": 7036155240,
+      "id": 6
+    },
+    {
+      "fullname": "vamsi",
+      "email": "vamsi@gmail.com",
+      "password": "123456",
+      "mobile": 4712589630,
+      "id": 7
+    },
+    {
+      "fullname": "vamsi",
+      "email": "vamsi1@gmail.com",
+      "password": "123456",
+      "mobile": 9912297950,
+      "id": 8
+    },
+    {
+      "fullname": "akram",
+      "email": "akram@gmail.com",
+      "password": "123456",
+      "mobile": 7894563210,
+      "id": 9
+    },
+    {
+      "fullname": "arfath",
+      "email": "arfath@gmail.com",
+      "password": "1478963",
+      "mobile": 7896540123,
+      "id": 10
+    },
+    {
+      "fullname": "roshini",
+      "email": "roshini@gmail.com",
+      "password": "123456",
+      "mobile": 7412589630,
+      "id": 11
+    },
+    {
+      "fullname": "ekmd m",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 12
+    },
+    {
+      "fullname": "",
+      "email": "qnxs",
+      "password": "",
+      "mobile": "",
+      "id": 13
+    },
+    {
+      "fullname": "sd",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 14
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 15
+    },
+    {
+      "fullname": "Abdul kareem",
+      "email": "kareem@gmail.com",
+      "password": "",
+      "mobile": 7036155240,
+      "id": 16
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
