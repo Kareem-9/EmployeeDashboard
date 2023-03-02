@@ -22,7 +22,15 @@
       "lastName": "Akhil",
       "email": "akhil@gmail.com",
       "mobile": "7412574102",
-      "salary": "123"
+      "salary": "1234"
+    },
+    {
+      "id": 11,
+      "firstName": "Abdul Kareem",
+      "lastName": "Kareem",
+      "email": "kareem@gmail.com",
+      "mobile": "7036155240",
+      "salary": "7410"
     }
   ],
   "signupUsers": [
@@ -102,34 +110,6 @@
       "password": "123456",
       "mobile": 7412589630,
       "id": 11
-    },
-    {
-      "fullname": "ekmd m",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 12
-    },
-    {
-      "fullname": "",
-      "email": "qnxs",
-      "password": "",
-      "mobile": "",
-      "id": 13
-    },
-    {
-      "fullname": "sd",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 14
-    },
-    {
-      "fullname": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 15
     },
     {
       "fullname": "Abdul kareem",

@@ -42,8 +42,6 @@ export class LoginComponent {
         
         return a.email === this.loginForm.value.email && a.password === this.loginForm.value.password
       
-        
-
       });
       if(user){
         //alert("Login Success!!");
